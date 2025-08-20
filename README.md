@@ -1,4 +1,4 @@
-Meducate 
+# Meducate
 
 An AI-powered medical education chatbot built with React + TypeScript + Vite.
 The app allows users to select a medical specialty (MBBS, Ayurveda, Yoga, etc.) and chat with an AI assistant that provides expert-level answers tailored to the chosen field.
