@@ -1,0 +1,5 @@
+{
+  "name": "Meducate AI",
+  "description": "An AI-powered medical education chatbot that allows users to select a specialty (like MBBS, Ayurveda, Yoga, etc.) and ask questions. The AI assistant provides expert-level answers tailored to the chosen field.",
+  "requestFramePermissions": []
+}
