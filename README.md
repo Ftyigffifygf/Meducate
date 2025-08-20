@@ -41,7 +41,9 @@ Code Highlighting: react-syntax-highlighter
 Clone the repo and install dependencies:
 
 git clone https://github.com/Ftyigffifygf/Meducate
+
 cd meducate-ai
+
 npm install
 
 ▶️ Running the App
